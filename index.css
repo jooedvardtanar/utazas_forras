@@ -1,0 +1,109 @@
+/* Tölts le egy tetszőleges betűtípus a google fonts-ről amit használni fogsz a projekten belül */
+/* Importáld be a betűtípus */
+
+/* 
+a belső margója: 0
+a külső margója: 0
+és box-sizing beállítása legyen border-box  */
+
+/* Állítsd be a body tag háttérszínjét ghostwhite-ra */
+
+.menu {
+  /* 
+Készítsd el a példának megfelelő menüt!!
+
+változók:
+
+parancsok:
+- padding
+- text-align
+*/
+}
+
+.menu a {
+  /* formázd meg a .menu <a> tag-jeit!!
+
+változók:
+--text-color
+
+parancsok:
+-text-decoration
+-color
+-font-weight (400)
+-margin-right
+-font-family
+*/
+}
+
+.hero {
+  /* formázd meg a .hero elemeket
+
+parancsok: 
+-background-image
+-background-position
+-background-size
+-background-repeat
+-min-height
+-width
+*/
+}
+
+.main-title {
+  /* 
+formázd meg a .main-title elemet
+
+változók:
+--title-color
+
+parancsok:
+font-size
+max-width
+margin
+margin-top
+line-height
+color
+font-family
+max-width
+*/
+}
+
+/* Formázzuk meg a .hero p tagjét  */
+/* 
+parancsok:
+font-family
+font-weight
+text-align
+font-size
+letter-spacing
+margin-top
+*/
+
+/* Formázzuk meg a .cta osztályt */
+/* 
+változók: --title-color, --button-color
+parancsok:
+text-decoration
+margin
+width
+display
+margin-top
+padding-inline
+padding-block
+font-family
+cursor
+text-align
+color
+transition
+*/
+
+/* Készítsük el a link :hover effektjét */
+/* 
+
+változók: --title-color, --button-color
+parancsok:
+background-color
+width
+color
+*/
+
+/* formázd meg a .section-left elemet a példának megfelelően*/
